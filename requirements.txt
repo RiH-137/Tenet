@@ -6,3 +6,5 @@ pillow
 
 moviepy
 spacy
+mediapipe
+opencv-python-headless
