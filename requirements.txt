@@ -1,0 +1,8 @@
+streamlit 
+tensorflow 
+keras 
+opencv-python
+pillow
+
+moviepy
+spacy
